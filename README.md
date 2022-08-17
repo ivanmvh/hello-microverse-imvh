@@ -1,6 +1,12 @@
 # Hello Microverse
 
-> This is the first project from Microverse to practice the basic setup of a project repository. In this project repository we had to create a .gitignore file, ReadMe.md, index.html, style.css and added a linter file.
+> This is a project to learn how to install and use Linter.
+
+In this project has installed Linter to check HTML and CSS.
+
+In order to work Linter we had installed the folder
+
+- .github\workflows and the file linters.yml
 
 ## Built With
 
@@ -9,21 +15,9 @@
 
 ## Author
 
-👤 **Virag Kormoczy**
+👤 **Ivan Martinez von Halle**
 
-- GitHub: [@virag-ky](https://github.com/virag-ky)
-- Twitter: [@Virag_Ky](https://twitter.com/Virag_Ky)
+- GitHub: [@ivanmvh](https://github.com/ivanmvh)
+- Twitter: [@imprivado](https://twitter.com/imprivado)
 
-## 🤝 Contributing
 
-Contributions, issues, and feature requests are welcome!
-
-Feel free to check the [issues page](../../issues/).
-
-## Show your support
-
-Give a ⭐️ if you like this project!
-
-## 📝 License
-
-This project is [MIT](./MIT.md) licensed.
